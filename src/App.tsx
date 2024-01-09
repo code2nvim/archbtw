@@ -1,4 +1,4 @@
-import './App.css';
+import "./styles.css";
 
 function App() {
   const background = require("./archbtw.png");
